@@ -1,4 +1,4 @@
-# python_dados_narrativas
+# Curso Python, Dados e Narrativas
 
 Neste curso vamos abordar a obtenção de dados abertos e públicos, além de como esses dados podem fortalecer uma narrativa. 
 Tudo isso utilizando a linguagem de programação Python junto a biblioteca Pandas.
